@@ -1,0 +1,47 @@
+.main-container{
+    background-color: color-mix(in srgb, #cb9ac0 25%, white);
+    background-size: cover;
+    padding: 20px;
+    height: 35vh;
+    width: 85vw;
+    margin: 50px;
+}
+.center-container{
+    background-color: color-mix(in srgb, #81c19f 25%, white);
+    background-size: cover;
+    padding: 20px;
+    height: 35vh;
+    width: 85vw;
+    margin: 50px;
+    text-align: right;
+}
+.last-container{
+    background-color: color-mix(in srgb, #e3eca9 25%, white);
+    background-size: cover;
+    padding: 20px;
+    height: 35vh;
+    width: 85vw;
+    margin: 50px;
+    text-align: center;
+}
+.first{
+    font-size: 20px;
+    font-family: "Roboto";
+    color:  #326a9d;
+}
+.p-1{
+    font-size: 18px;
+    font-family: "Roboto";
+    color: #64748b;
+}
+.button-1{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 1px solid #326a9d;
+  color: #326a9d;
+  background: none;
+  font-size: 14px;
+  font-family: "Roboto";
+}
